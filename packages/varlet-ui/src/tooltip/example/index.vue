@@ -43,7 +43,7 @@ watchDarkMode(dark)
     <var-button type="primary">{{ pack.basicUsage }}</var-button>
   </var-tooltip>
 
-  <app-type>{{ pack.slotTooLtip }}</app-type>
+  <app-type>{{ pack.slotTooltip }}</app-type>
   <var-tooltip>
     <var-button type="primary">{{ pack.slotTooltip }}</var-button>
     <template #tooltip>

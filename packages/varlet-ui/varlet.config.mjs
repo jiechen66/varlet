@@ -452,7 +452,7 @@ export default defineConfig({
       },
       {
         text: {
-          'zh-CN': 'Tooltip 菜单',
+          'zh-CN': 'Tooltip 提示',
           'en-US': 'Tooltip',
         },
         doc: 'tooltip',
